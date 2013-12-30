@@ -1,0 +1,10 @@
+dist/
+druantia.egg-info/
+.coverage
+_html
+_public/
+tests/functional/keys/pubring.gpg
+tests/functional/keys/pubring.gpg~
+tests/functional/keys/random_seed
+tests/functional/keys/secring.gpg
+tests/functional/keys/trustdb.gpg
